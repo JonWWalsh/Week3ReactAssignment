@@ -1,0 +1,22 @@
+body {
+  background-color: bisque;
+  color: brown;
+}
+
+h4 {
+  color: rgb(94, 82, 82);
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+li {
+  text-align: center;
+  list-style-position: inside;
+}
